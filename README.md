@@ -1,6 +1,6 @@
 # Hi there, I'm FirePlank! 👋
 
-## I like to program languages, chess bots, discord bots, games and may others!
+## I like to program languages, chess bots, discord bots, games and many others!
 
 ### My intrests include:
 - Chess
