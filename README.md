@@ -10,10 +10,16 @@
 - Hacking
 - Robots
 
-### Programming Languages I Mainly Use:
+### Programming languages I mainly use:
 - Python
 - Rust
 - C++
+- Javascript/CSS/HTML
+
+# Frameworks I mainly use:
+- Discord.py
+- Tensorflow
+- React.js
 
 ---
 
