@@ -16,7 +16,7 @@
 - C++
 - Javascript/CSS/HTML
 
-# Frameworks I mainly use:
+### Frameworks I mainly use:
 - Discord.py
 - Tensorflow
 - React.js
