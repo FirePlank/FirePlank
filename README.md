@@ -23,8 +23,12 @@
 
 ---
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=FirePlank&show_icons=true&theme=slateorange&title_color=fc8f00&icon_color=fc8f00)](https://github.com/FirePlank/)
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=FirePlank&show_icons=true&theme=slateorange&title_color=fc8f00&icon_color=fc8f00" alt="Github Stats"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FirePlank&show_icons=true&theme=slateorange&layout=compact&langs_count=8)](https://github.com/FirePlank/)
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirePlank&show_icons=true&theme=slateorange&layout=compact&langs_count=8" alt="Top Langs"/></a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=fireplank&color=orange)](https://github.com/FirePlank/) (After 2021/5/22)
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FirePlank&theme=nightowl&hide_border=true&background=22272E&sideLabels=fc8f00&sideNums=fc8f00&dates=fc8f00&ring=fc8f00&stroke=fc8f00&fire=fc8f00&currStreakNum=fc8f00&currStreakLabel=fc8f00" alt="Streak Stats"/></a>
+
+<a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=FirePlank&bg_color=22272e&color=fc8f00&line=fc8f00&point=fc8f00&area=false&hide_border=true" alt="Contribution Chart"/></a>
+
+<a href="#"><img src="https://komarev.com/ghpvc/?username=fireplank&color=orange" alt="Profile Views"/></a> (After 2021/5/22)
