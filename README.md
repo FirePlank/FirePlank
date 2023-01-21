@@ -14,11 +14,10 @@ I'm a developer skilled with a wide range of technologies and frameworks. I have
 * 🤝  I'm open to collaborating on interesting and fun projects
 * ⚡  I have some interesting projects coming up!
 
-<a href="https://www.twitter.com/fireplank" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/fireplank?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"
-/></a>
 <a href="https://www.github.com/fireplank" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/fireplank?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a>
+<a href="https://discord.com/invite/njCXkcEZqQ" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/discord/713785142597910549?label=Discord%20Server&logo=Discord&style=for-the-badge&color=f97316&labelColor=1c1917" /></a>
 
 ### Skills
 
