@@ -55,7 +55,7 @@ src="https://img.shields.io/discord/713785142597910549?label=Discord%20Server&lo
 
 <a href="http://www.github.com/fireplank"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fireplank&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/fireplank"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=fireplank&bg_color=1c1917&color=ffffff&line=f97316&point=f97316&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/fireplank"><img src="https://github-readme-activity-graph.vercel.app/graph?username=fireplank&bg_color=1c1917&color=ffffff&line=f97316&point=f97316&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/fireplank" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireplank&langs_count=10&exclude_repo=Cpp-Chess-Bot&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
