@@ -1,18 +1,16 @@
-Hi 👋 My name is FirePlank
+Hi 👋 My name is Jesse
 ==========================
 
-Programmer, hacker, pentester and a chess enthusiast
+A passionate software engineer from Finland
 ------------------------------------------
 
 I'm a developer skilled with a wide range of technologies and frameworks. I have experience with working in teams and can coordinate well with others. My programming journey has been quite a ride, not to say I didn't have any fun though! I got to meet amazing people and bring my skills to a whole new level. I don't know what I would do without programming and I'm sure I'll be doing it for a long time to come!
 
-* 🌍  I'm based in Finland
-* 🖥️  See my portfolio at [my website](http://www.fireplank.xyz)
-* ✉️  You can contact me at [contact@fireplank.xyz](mailto:contact@fireplank.xyz)
-* 🚀  I'm currently working on [my personal websites](http://github.com/Fireplank-Website)
-* 🧠  I'm learning web development and new hacking concepts
+* 🖥️  See my portfolio at [my website](https://jessesissala.com)
+* ✉️  You can contact me at [contact@jessesissala.com](mailto:contact@jessesissala.com)
+* 🚀  I'm currently working on [Fitsmrt](http://fitsmrt.com)
+* 🧠  I'm learning software development and different programming concepts
 * 🤝  I'm open to collaborating on interesting and fun projects
-* ⚡  I have some interesting projects coming up!
 
 <a href="https://www.github.com/fireplank" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/fireplank?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a>
