@@ -49,11 +49,19 @@ src="https://img.shields.io/discord/713785142597910549?label=Discord%20Server&lo
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/fireplank"><img src="https://github-readme-stats.vercel.app/api?username=fireplank&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="fireplank's GitHub stats" /></a>
+<a href="https://github.com/fireplank">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fireplank&theme=github_dark" alt="fireplank's GitHub stats" />
+</a>
+<br/>
 
-<a href="http://www.github.com/fireplank"><img src="https://github-readme-activity-graph.vercel.app/graph?username=fireplank&bg_color=1c1917&color=ffffff&line=f97316&point=f97316&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/fireplank">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fireplank&bg_color=1c1917&color=ffffff&line=f97316&point=f97316&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>
+<br/>
 
-<a href="https://github.com/fireplank" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireplank&langs_count=10&exclude_repo=Cpp-Chess-Bot&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/fireplank" align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fireplank&theme=github_dark" alt="Top Languages" />
+</a>
 
 ## Support Me
 <a href="https://www.buymeacoffee.com/fireplank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
